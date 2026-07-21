@@ -1,10 +1,81 @@
-- 👋 Hi, I’m @Shipzz08
-- 👀 I’m interested in open source, web dev, ai & ml, competitive programming
-- 🌱 I’m currently learning DSA/WebDev
-- 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me vsnshipra08@gmail.com
+-----------------------------------------------------
+                     Banner
+-----------------------------------------------------
 
-<!---
-Shipzz08/Shipzz08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 I'm Shipra Sinha
+
+AI/ML Engineer • GenAI • Data Engineering
+
+Building LLM applications,
+RAG Systems,
+Machine Learning pipelines,
+and Data-driven products.
+
+-----------------------------------------------------
+
+## 👩‍💻 About Me
+
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+
+💡 Passionate about
+
+• Generative AI
+• LLM Applications
+• Retrieval Augmented Generation (RAG)
+• Machine Learning
+• Data Engineering
+• Python Development
+
+🚀 I enjoy solving real-world problems using AI.
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python
+Java
+JavaScript
+SQL
+
+### AI / ML
+
+TensorFlow
+PyTorch
+Scikit-Learn
+LangChain
+LangGraph
+ChromaDB
+OpenAI
+Groq
+
+### Data
+
+Pandas
+NumPy
+Power BI
+MongoDB
+PostgreSQL
+
+### Web
+
+React
+Node.js
+Express
+HTML
+CSS
+Streamlit
+
+## 🌱 Currently Learning
+
+• Agentic AI
+
+• LangGraph
+
+• MCP
+
+• AI Agents
+
+• Vector Databases
+
+• Data Engineering
+
